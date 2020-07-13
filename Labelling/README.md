@@ -1,6 +1,6 @@
 # Research Notebooks
 The following notebooks answer the questions at the back of chapter 3 but also explore the concept
-of meta-labeling more in depth. This research is linked to the [research report](https://github.com/hudson-and-thames/presentations/blob/master/Does%20Meta%20Labeling%20Add%20to%20Signal%20Efficacy.pdf) and [slide show](https://github.com/hudson-and-thames/presentations/blob/master/Improved%20Signals.pdf) titled:
+of meta-labeling more in depth.titled:
 *Does Meta-Labeling Add to Signal Efficacy?*
 
 ## Chapter 3 - Part 1
