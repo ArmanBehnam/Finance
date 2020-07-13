@@ -8,10 +8,6 @@ I do provide a 2 year sample on tick, volume, and dollar bars to help the commun
 
 ## Contributing
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hudson-and-thames/research/master/Chapter3/readme_image.png" height="350"><br>
-</div>
-
 Our hope is that the sample data and notebooks will enable the community to build on the research and contribute to the open source community. 
 
 A good place to start for new users is to use the data provided to answer the questions at the back of the chapters in Advances in Financial Machine Learning.
