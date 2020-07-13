@@ -1,16 +1,10 @@
-<div align="center">
-  <img src="https://stock.adobe.com/es/search?k=%22ab+logo%22" height="300"><br>
-</div>
+# Finance Repo
 
------------------
+Contains all the Jupyter Notebooks used.
 
-# Research Repo
+All of the research I do in these notebooks is on the full tick history dataset.
 
-Contains all the Jupyter Notebooks used in our research.
-
-All of the research we do in these notebooks is on the full tick history dataset from Tick Data LLC, but not provided because of royalty fees.  The data can be purchased for about $750 US Dollars for the full history of a single ticker.
-
-We do provide a 2 year sample on tick, volume, and dollar bars to help the community get started. 
+I do provide a 2 year sample on tick, volume, and dollar bars to help the community get started. 
 
 ## Contributing
 
@@ -22,11 +16,11 @@ Our hope is that the sample data and notebooks will enable the community to buil
 
 A good place to start for new users is to use the data provided to answer the questions at the back of the chapters in Advances in Financial Machine Learning.
 
-Please review the [Guidelines](https://github.com/hudson-and-thames/research/tree/master/Guidelines.md) for research
+Please review the [Guidelines](https://github.com/ArmanBehnam/Finance/blob/master/Guidelines.md) for research
 
 ### Sample Data
 
-The following [folder](https://github.com/hudson-and-thames/research/tree/master/Sample-Data) contains 2 years sample data on S&P500 Emini Futures, for the period 2015-01-01 to 2017-01-01.
+The following [folder](https://github.com/ArmanBehnam/Finance/tree/master/Sample-Data) contains 2 years sample data on S&P500 Emini Futures, for the period 2015-01-01 to 2017-01-01.
 
 Specifically the following data structures:
 * Dollar Bars: Sampled every $70'000
@@ -41,7 +35,7 @@ Recommended versions:
 
 ### Installation for Mac OS X and Ubuntu Linux
 
-1. Make sure you install the latest version of the Anaconda 3 distribution. To do this you can follow the install and update instructions found on this link: https://www.anaconda.com/download/#mac
+1. Make sure you install the latest version of the Anaconda 3 distribution. To do this you can follow the install and update instructions found on this link: https://www.anaconda.com/products/individual
 2. Launch a terminal
 3. Create a New Conda Environment. From terminal: ```conda create -n <env name> python=3.6 anaconda``` accept all the requests to install.
 4. Now activate the environment with ```source activate <env name>```.
@@ -51,7 +45,7 @@ Recommended versions:
 
 ### Installation for Windows
 
-1. Download and install the latest version of [Anaconda 3](https://www.anaconda.com/distribution/#download-section)
+1. Download and install the latest version of [Anaconda 3](https://www.anaconda.com/products/individual)
 2. Launch Anaconda Navigator
 3. Click Environments, choose an environment name, select Python 3.6, and click Create
 4. Click Home, browse to your new environment, and click Install under Jupyter Notebook
