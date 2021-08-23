@@ -1,6 +1,6 @@
 dask==1.2.2
 ipython==7.4.0
-jupyterlab==0.35.3
+jupyterlab==1.2.21
 keras==2.2.4
 matplotlib==3.0.2
 mlfinlab==0.1.0
