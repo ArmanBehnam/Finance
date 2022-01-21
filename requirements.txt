@@ -1,5 +1,5 @@
 dask==1.2.2
-ipython==7.4.0
+ipython==7.16.3
 jupyterlab==0.35.3
 keras==2.2.4
 matplotlib==3.0.2
